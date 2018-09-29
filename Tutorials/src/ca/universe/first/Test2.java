@@ -7,7 +7,7 @@ package ca.universe.first;
  * @author Ritika Jaidka
  *
  */
-public class Test {
+public class Test2 {
 
 	/**
 	 * @param args
@@ -15,9 +15,8 @@ public class Test {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-	 System.out.println("this is test");
-	 
-	 System.out.println("this is test");
+		 System.out.println("this is test");
+		 
 	}
 
 }
