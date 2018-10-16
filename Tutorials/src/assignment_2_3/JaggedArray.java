@@ -28,7 +28,7 @@ public class JaggedArray {
 	
 		
 		
-		System.out.printf("The courses completed by" + tutorial1[4][0] +"are" + tutorial1[4][1], tutorial1[4][2], tutorial1[4][3]);
+		System.out.printf("The courses completed by" + tutorial1[4][0] +"are" + tutorial1[4][1]+ tutorial1[4][2]+ tutorial1[4][3]);
 
 	}
 

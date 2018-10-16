@@ -1,5 +1,5 @@
 package assignment_2_4;
-
+//Understand an array of string
 public class Login 
 {
 //	static String usernames;
@@ -11,7 +11,8 @@ public class Login
 
 	public Login ()
 	{}
-	public Login(String user, String pass )
+	public  Login(String user, String pass )   //constructor ->the main rule of the constructor is that it has the
+	//same name as the class. 
 	{
 		this.username=user;
 		this.password = pass;

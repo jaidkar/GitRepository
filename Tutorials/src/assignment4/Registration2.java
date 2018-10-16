@@ -11,7 +11,7 @@ public class Registration2 {
 
 	private int registrationid;
 	private double fees;
-	int discount; //local variable   if i write inside the method thenwhey do i need to initialize
+	int discount; //local variable   if i write inside the method then whey do i need to initialize
 	
 	public void setRegistrationId(int id)
 	{
